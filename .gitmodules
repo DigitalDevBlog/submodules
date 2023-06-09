@@ -1,0 +1,3 @@
+[submodule "Philips"]
+	path = Philips
+	url = git@github.com:RuudWijnands/Philips.git
